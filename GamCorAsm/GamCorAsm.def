@@ -1,0 +1,4 @@
+LIBRARY GamCorAsm
+
+EXPORTS gen_lut
+EXPORTS gamma_correction
